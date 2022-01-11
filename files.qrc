@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="16x16">
+    <file>icons/16x16/6578854-16.png</file>
+    <file>icons/16x16/4092560-16.png</file>
+    <file>icons/16x16/1167975-16.png</file>
+    <file>icons/16x16/216090-16.png</file>
+  </qresource>
+  <qresource prefix="20x20">
+    <file>icons/20x20/6578854-20.png</file>
+    <file>icons/20x20/4092560-20.png</file>
+    <file>icons/20x20/1167975-20.png</file>
+    <file>icons/20x20/216090-20.png</file>
+    <file>icons/20x20/ref.png</file>
+  </qresource>
+</RCC>
